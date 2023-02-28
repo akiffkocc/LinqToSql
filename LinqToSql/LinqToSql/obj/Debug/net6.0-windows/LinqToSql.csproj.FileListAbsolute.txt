@@ -1,0 +1,7 @@
+C:\Users\akifk\source\repos\EntityFramework\LinqToSql\LinqToSql\obj\Debug\net6.0-windows\LinqToSql.csproj.AssemblyReference.cache
+C:\Users\akifk\source\repos\EntityFramework\LinqToSql\LinqToSql\obj\Debug\net6.0-windows\LinqToSql.Form1.resources
+C:\Users\akifk\source\repos\EntityFramework\LinqToSql\LinqToSql\obj\Debug\net6.0-windows\LinqToSql.csproj.GenerateResource.cache
+C:\Users\akifk\source\repos\EntityFramework\LinqToSql\LinqToSql\obj\Debug\net6.0-windows\LinqToSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\source\repos\EntityFramework\LinqToSql\LinqToSql\obj\Debug\net6.0-windows\LinqToSql.AssemblyInfoInputs.cache
+C:\Users\akifk\source\repos\EntityFramework\LinqToSql\LinqToSql\obj\Debug\net6.0-windows\LinqToSql.AssemblyInfo.cs
+C:\Users\akifk\source\repos\EntityFramework\LinqToSql\LinqToSql\obj\Debug\net6.0-windows\LinqToSql.csproj.CoreCompileInputs.cache
